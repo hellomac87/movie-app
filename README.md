@@ -8,8 +8,8 @@ What are we building | 2018-10-13 |
 Introduction to Create React App | 2018-10-13 |
 Hello World with React and CRA | 2018-10-13 |
 Creating React Components with JSX | 2018-10-14 | [Creating React Components with JSX](./markdown/CreatingReactComponentswithJSX.md)|
-Data flow with Props |  | |
-Lists with .maps |  | |
+Data flow with Props | 2018-10-15 | [Data flow with Props](./markdown/DataflowwithProps.md)|
+Lists with .maps |  | [Lists with .maps](./markdown/DataflowwithProps.md) |
 Validating Props with Prop Types |  | |
 Component Lifecycle |  | |
 Thinking in React Component State |  | |
