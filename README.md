@@ -10,7 +10,7 @@ Hello World with React and CRA | 2018-10-13 |
 Creating React Components with JSX | 2018-10-14 | [Creating React Components with JSX](./markdown/CreatingReactComponentswithJSX.md)|
 Data flow with Props | 2018-10-15 | [Data flow with Props](./markdown/DataflowwithProps.md)|
 Lists with .maps | 2018-10-15 | [Lists with .maps](./markdown/ListsWithMaps.md) |
-Validating Props with Prop Types |  | |
+Validating Props with Prop Types | 2018-10-16 | [Validating Props with Prop Types](./ValidatingPropsWithPropTypes.md)|
 Component Lifecycle |  | |
 Thinking in React Component State |  | |
 Practicing this setState |  | |
