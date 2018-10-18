@@ -13,8 +13,8 @@ Lists with .maps | 2018-10-15 | [Lists with .maps](./markdown/ListsWithMaps.md) 
 Validating Props with Prop Types | 2018-10-16 | [Validating Props with Prop Types](./ValidatingPropsWithPropTypes.md)|
 Component Lifecycle | 2018-10-16 | [Component Lifecycle](./ComponentLifecycle.md)|
 Thinking in React Component State | 2018-10-17 | [Thinking in React Component State](./ThinkingInReactComponentState.md)|
-Practicing this setState | 2018-10-17 | | [Practicing this setState](./Practicing_this_setState.md)
-Loading states |  | |
+Practicing this setState | 2018-10-17 | [Practicing this setState](./Practicing_this_setState.md)| 
+Loading states | 2018-10-18 | [Loading states](./LoadingStates.md)|
 Smart vs Dumb |  | |
 AJAX on React |  | |
 Promises |  | |
