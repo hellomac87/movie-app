@@ -16,7 +16,7 @@ Thinking in React Component State | 2018-10-17 | [Thinking in React Component St
 Practicing this setState | 2018-10-17 | [Practicing this setState](./Practicing_this_setState.md)| 
 Loading states | 2018-10-18 | [Loading states](./LoadingStates.md)|
 Smart vs Dumb | 2018-10-18 | [Smart vs Dumb](./SmartVsDumb.md)|
-AJAX on React |  | |
+AJAX on React | 2019-10-19 | [AJAX on React](./AJAX_on_React.md)|
 Promises |  | |
 Async Await |  | |
 Updating Movie |  | |
