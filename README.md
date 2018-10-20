@@ -18,7 +18,7 @@ Loading states | 2018-10-18 | [Loading states](./LoadingStates.md)|
 Smart vs Dumb | 2018-10-18 | [Smart vs Dumb](./SmartVsDumb.md)|
 AJAX on React | 2018-10-19 | [AJAX on React](./AJAX_on_React.md)|
 Promises | 2018-10-19 | [Promises](./Promises.md)|
-Async Await |  | |
+Async Await | 2018-10-20 |[Async Await](./Async_Await.md)| 
 Updating Movie |  | |
 CSS for Movie |  | |
 Building for Production |  | |
