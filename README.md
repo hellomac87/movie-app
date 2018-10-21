@@ -19,7 +19,7 @@ Smart vs Dumb | 2018-10-18 | [Smart vs Dumb](./SmartVsDumb.md)|
 AJAX on React | 2018-10-19 | [AJAX on React](./AJAX_on_React.md)|
 Promises | 2018-10-19 | [Promises](./Promises.md)|
 Async Await | 2018-10-20 |[Async Await](./Async_Await.md)| 
-Updating Movie |  | |
+Updating Movie | 2018-10-21 |[Updating Movie](UpdatingMovie.md) |
 CSS for Movie |  | |
 Building for Production |  | |
 
