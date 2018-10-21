@@ -21,6 +21,6 @@ Promises | 2018-10-19 | [Promises](./Promises.md)|
 Async Await | 2018-10-20 |[Async Await](./Async_Await.md)| 
 Updating Movie | 2018-10-21 |[Updating Movie](UpdatingMovie.md) |
 CSS for Movie | 2018-10-21 | [CSS for Movie](./CSS_for_Movie.md)|
-Building for Production |  | |
+Building for Production | 2018-10-21 | [Building for Production](./Building_for_Production.md)|
 
 ---
