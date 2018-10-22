@@ -1,5 +1,9 @@
 # NomadCoder React Movie App
 
+### 최종 완성본 gh-pages
+
+[https://hellomac87.github.io/movie-app/](https://hellomac87.github.io/movie-app/)
+
 ## Study Board
 | 강좌 | 학습날짜 | md |
 |------|-------|------|
